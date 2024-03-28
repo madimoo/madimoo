@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @madimoo
-- 👀 I’m interested in improving my knowledge and making real changes in people's lives with convenient, intuitive user experiences that just work.
-- 🌱 I’m currently learning Swift for multiplatform apps.
-- 📫 Emails always welcome at maddieblizz1@gmail.com
-- 😄 Pronouns: she/her
+👋 **hi!** i'm a full time web dev from new zealand
+this is my personal page
+love learning new things and inspired by innovation and new ways of thinking
+
+🦔 currently learning swift
+📫 emails always welcome at maddieblizz1@gmail.com
