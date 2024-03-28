@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @madimoo
+- 👀 I’m interested in improving my knowledge and making real changes in people's lives with convenient, intuitive user experiences that just work.
+- 🌱 I’m currently learning Swift for multiplatform apps.
+- 📫 Emails always welcome at maddieblizz1@gmail.com
+- 😄 Pronouns: she/her
